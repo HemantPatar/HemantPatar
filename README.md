@@ -9,5 +9,5 @@ I'm a Electrical Engineer who is passionate about Machine learning & Artificial 
 - 👯 I’m looking for a Data Science Job/Internship. 
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/hemant-patar) [Gmail](patarhemant@gmail.com)
 
-⭐️ From [Hemant](https://github.com/HemantPatar)
+⭐️ From [Hemant](https://patarhemant.wixsite.com/resume)
 Inspired by [The potential of Data all around the 🌎][![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)
