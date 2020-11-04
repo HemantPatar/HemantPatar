@@ -4,9 +4,9 @@
 
 I'm an Electrical Engineer who is passionate about Machine learning & Artificial Inteligence, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a Data Science learner and practitioner.
-- 📚 I’m currently learning  Machine Learning using Python.
-- 👯 I’m looking for a Data Science Job/Internship. 
+- 🔭 Currently a Data Science learner and practitioner.
+- 📚 Learning  Machine Learning using Python.
+- 👯 Looking for a Data Science Job/Internship. 
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/hemant-patar) [Gmail](patarhemant@gmail.com)
 
 ⭐️ From [Hemant](https://patarhemant.wixsite.com/resume)
